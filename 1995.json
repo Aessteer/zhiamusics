@@ -1,0 +1,89 @@
+[
+{
+    "code3": "RUS",
+    "z": 11928927,
+    "code": "RU"
+},
+{
+    "code3": "SAU",
+    "z": 5122702,
+    "code": "SA"
+},
+{
+    "code3": "UKR",
+    "z": 6172338,
+    "code": "UA"
+},
+{
+    "code3": "USA",
+    "z": 28451053,
+    "code": "US"
+},
+{
+    "code3": "UZB",
+    "z": 1653000,
+    "code": "UZ"
+},
+{
+    "code3": "PAK",
+    "z": 3669308,
+    "code": "PK"
+},
+{
+    "code3": "KAZ",
+    "z": 3251968,
+    "code": "KZ"
+},
+{
+    "code3": "IRN",
+    "z": 2937668,
+    "code": "IR"
+},
+{
+    "code3": "HKG",
+    "z": 2443798,
+    "code": "HK"
+},
+{
+    "code3": "FRA",
+    "z": 6087993,
+    "code": "FR"
+    
+},
+    {
+    "code3": "GBR",
+    "z": 4155293,
+    "code": "GB"
+},
+{
+    "code3": "CIV",
+    "z": 2076394,
+    "code": "CI"
+},
+{
+    "code3": "AUS",
+    "z": 4153330,
+    "code": "AU"
+},
+{
+    "code3": "CAN",
+    "z": 4864778,
+    "code": "CA"
+},
+{
+    "code3": "DEU",
+    "z": 7464406,
+    "code": "DE"
+},
+{
+    "code3": "IND",
+    "z": 6952238,
+    "code": "IN"
+},
+{
+    "code3": "ARE",
+    "z": 1824118,
+    "code": "AE"
+}
+
+]

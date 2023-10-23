@@ -1,0 +1,82 @@
+[
+    {
+        "code3": "USA",
+        "z": 34814053,
+        "code": "US"
+    },
+    {
+        "code3": "RUS",
+        "z": 11900297,
+        "code": "RU"
+    },
+    {
+        "code3": "DEU",
+        "z": 8992631,
+        "code": "DE"
+    },
+    {
+        "code3": "IND",
+        "z": 6411331,
+        "code": "IN"
+    },
+    {
+        "code3": "FRA",
+        "z": 6278718,
+        "code": "FR"
+    },
+    {
+        "code3": "UKR",
+        "z": 5527087,
+        "code": "UA"
+    },
+    {
+        "code3": "CAN",
+        "z": 5511914,
+        "code": "CA"
+    },
+    {
+        "code3": "SAU",
+        "z": 5263387,
+        "code": "SA"
+    },
+    {
+        "code3": "GBR",
+        "z": 4730165,
+        "code": "GB"
+    },
+    {
+        "code3": "AUS",
+        "z": 4386250,
+        "code": "AU"
+    },
+    {
+        "code3": "PAK",
+        "z": 4181912,
+        "code": "PK"
+    },
+    {
+        "code3": "KAZ",
+        "z": 2874194,
+        "code": "KZ"
+    },
+    {
+        "code3": "HKG",
+        "z": 2669122,
+        "code": "HK"
+    },
+    {
+        "code3": "IRN",
+        "z": 2476469,
+        "code": "IR"
+    },
+    {
+        "code3": "ARE",
+        "z": 2447010,
+        "code": "AE"
+    },
+    {
+        "code3": "CIV",
+        "z": 2163644,
+        "code": "CI"
+    }
+]

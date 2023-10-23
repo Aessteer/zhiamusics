@@ -1,0 +1,77 @@
+[
+    {
+        "code3": "USA",
+        "z": 44183643,
+        "code": "US"
+    },
+    {
+        "code3": "RUS",
+        "z": 11194710,
+        "code": "RU"
+    },
+    {
+        "code3": "DEU",
+        "z": 9812263,
+        "code": "DE"
+    },
+    {
+        "code3": "SAU",
+        "z": 8429956,
+        "code": "SA"
+    },
+    {
+        "code3": "ARE",
+        "z": 7316697,
+        "code": "AE"
+    },
+    {
+        "code3": "FRA",
+        "z": 7309986,
+        "code": "FR"
+    },
+    {
+        "code3": "GBR",
+        "z": 7119664,
+        "code": "GB"
+    },
+    {
+        "code3": "CAN",
+        "z": 6761226,
+        "code": "CA"
+    },
+    {
+        "code3": "ESP",
+        "z": 6280062,
+        "code": "ES"
+    },
+    {
+        "code3": "AUS",
+        "z": 5882980,
+        "code": "AU"
+    },
+    {
+        "code3": "ITA",
+        "z": 5787893,
+        "code": "IT"
+    },
+    {
+        "code3": "IND",
+        "z": 5574018,
+        "code": "IN"
+    },
+    {
+        "code3": "UKR",
+        "z": 4818767,
+        "code": "UA"
+    },
+    {
+        "code3": "PAK",
+        "z": 3943681,
+        "code": "PK"
+    },
+    {
+        "code3": "KAZ",
+        "z": 3334937,
+        "code": "KZ"
+    }
+]
